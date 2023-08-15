@@ -24,6 +24,11 @@ You can change the quantity of the items as well here.
 
 ![Screenshot_20230815_122416](https://github.com/chaitanyabisht/ecommerce-website/assets/63919815/36c6f74b-fb9b-4e44-90c6-8dca975ca873)
 
+
+## Payment Page
+
+![Screenshot_20230815_122427](https://github.com/chaitanyabisht/ecommerce-website/assets/63919815/c456c9ea-4181-44b8-ba8b-742c8328a070)
+
 ## Order Placed Page
 
 ![Screenshot_20230815_122441](https://github.com/chaitanyabisht/ecommerce-website/assets/63919815/c84bd8a0-8791-44ab-9b52-a5f1b991fffe)
