@@ -3,7 +3,7 @@
 # Screenshots
 
 ## Home Page
-![Screenshot_20230815_122319](https://github.com/chaitanyabisht/ecommerce-website/assets/63919815/e3908f20-9889-46cd-87c0-2c1ee48a4289)
+![Screenshot_20230815_123632](https://github.com/chaitanyabisht/ecommerce-website/assets/63919815/b2f62660-21d2-46f0-9bfc-83241f5bf199)
 
 ## Register User Page
 ![Screenshot_20230815_122132](https://github.com/chaitanyabisht/ecommerce-website/assets/63919815/6219c5b8-4f05-48ff-9e8c-11a64577607d)
